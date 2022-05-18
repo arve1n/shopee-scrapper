@@ -6,4 +6,4 @@
 
 > Please intall the requirement :
 >   - Beautiful Soup : pip install bs4
->   - Selenium : pip install msedge-selenium-tools selenium==3.141 or ip install selenium ( for Firefox or Chrome)
+>   - Selenium : pip install msedge-selenium-tools selenium==3.141 or pip install selenium ( for Firefox or Chrome)
